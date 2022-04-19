@@ -17,7 +17,7 @@ namespace EmployeeWage
         {
             int empHrs = 0;
             int empWage = 0;
-            int totalEmpwage = 0;
+            int totalEmpWage = 0;
             for(int day = 0; day <  NUM_OF_WORKING_DAYS; day++)
             {
               Random random = new Random();
