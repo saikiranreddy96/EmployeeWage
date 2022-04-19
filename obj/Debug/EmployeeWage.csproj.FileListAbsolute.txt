@@ -1,0 +1,8 @@
+C:\Users\sai kiran\source\repos\EmployeeWage\bin\Debug\EmployeeWage.exe.config
+C:\Users\sai kiran\source\repos\EmployeeWage\bin\Debug\EmployeeWage.exe
+C:\Users\sai kiran\source\repos\EmployeeWage\bin\Debug\EmployeeWage.pdb
+C:\Users\sai kiran\source\repos\EmployeeWage\obj\Debug\EmployeeWage.csproj.AssemblyReference.cache
+C:\Users\sai kiran\source\repos\EmployeeWage\obj\Debug\EmployeeWage.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai kiran\source\repos\EmployeeWage\obj\Debug\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\sai kiran\source\repos\EmployeeWage\obj\Debug\EmployeeWage.exe
+C:\Users\sai kiran\source\repos\EmployeeWage\obj\Debug\EmployeeWage.pdb
